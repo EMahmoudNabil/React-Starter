@@ -1,3 +1,3 @@
 ##to Run this Project
-`clone this projec` then `yarn install` 
+`clone this project` then `yarn install` 
 finally `yarn start`
